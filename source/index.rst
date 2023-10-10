@@ -109,21 +109,20 @@ For any inquiries or further information, please contact [Contact Email].
    
 
 
+..
+  .. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :hidden:
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :hidden:
-
-
-   Theme<tabs/theme>
-   Partners<tabs/partners>
-   Researchers and Students<tabs/researchers>
-   Full schedule<tabs/schedule>
-   Kick-off meeting<tabs/kick_off>
-   Accomodation<tabs/accommodation>   
-   Materials & Info<tabs/materials/index>
+    Theme<tabs/theme>
+    Partners<tabs/partners>
+    Researchers and Students<tabs/researchers>
+    Full schedule<tabs/schedule>
+    Kick-off meeting<tabs/kick_off>
+    Accomodation<tabs/accommodation>   
+    Materials & Info<tabs/materials/index>
 
 
 
