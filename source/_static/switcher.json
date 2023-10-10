@@ -1,0 +1,10 @@
+[
+    {
+        "version": "latest",
+        "url": "https://challenge-camp.geoportti.fi/en/latest/"
+    },
+    {
+        "version": "dev",
+        "url": "https://challenge-camp.geoportti.fi/en/dev/"
+    }
+]
