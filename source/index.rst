@@ -1,4 +1,4 @@
-.. .. figure:: _static/banner_logos.png
+.. figure:: _static/banner_logos.png
 
 
 
@@ -30,8 +30,6 @@
          Collaborators, read more on how to be involved and match your digital health 
          and well-being information needs and opportunities with us.
 
-Call for papers
-=================
 
 Dear Reserachers and Scholars, 
 
