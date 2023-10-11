@@ -42,7 +42,7 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "pydata_sphinx_theme"
-# html_logo = '_static/gcc_menu.png' #gcc_logo.png
+html_logo = '_static/grd_menu.png' 
 html_title = "Geoinformatics Research Days 2024"
 
 html_static_path = ['_static']
@@ -65,7 +65,7 @@ html_theme_options = {
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Submission deadline in Feb 2024!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    # 'announcement': 'Submission deadline in Feb 2024!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match

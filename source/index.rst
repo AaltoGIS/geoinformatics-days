@@ -31,9 +31,7 @@
          and well-being information needs and opportunities with us.
 
 
-Dear Reserachers and Scholars, 
-
-Geoinformatics Research Days is the annual gathering for geoinformatics experts in Finland, 
+The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
 which has been arranged by the member universities of the 
 **Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years.
 
