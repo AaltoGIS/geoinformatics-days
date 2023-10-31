@@ -38,8 +38,9 @@ which has been arranged by the member universities of the
 Traditionally, the Research Days have been a relatively small-scale event with mostly invited programme. 
 However, in 2023 *Fiuginet* made the decision to develop the event into a scientific conference, and therefore 
 we are proud to announce the **Call for papers** for *Geoinformatics Research Days 2024*. 
-The event will take place on May 2024 and will be organized by *Aalto University* together with the *Fiuginet* network, 
-hosted in *Espoo, Finland.*
+The event will take place on May 20-21st, 2024 and will be organized by *Aalto University* together with the *Fiuginet* network, 
+hosted in *Espoo, Finland.* The event is held together with the ICA Commission on Cognitive Issues in Geographic Information 
+Visualisation with targeted sessions and their members are also warmly welcome.
 
 We invite researchers, practitioners, and experts from academia, industry, and government sectors both in 
 Finland and abroad to submit their research contributions for presentation during the *Geoinformatics Research Days 2024*. 
@@ -49,17 +50,16 @@ The conference will cover a broad spectrum of topics related to Geoinformatics, 
 2. Geographic Information Systems (GIS) and Remote Sensing
 3. Spatial Data Analysis and Visualization
 4. Geospatial Algorithms and Modeling
-5. Geospatial Web and Mobile Applications
-6. User Cognition in Geospatial Applications
+5. User Cognition in Geospatial Applications
+6. Geoinformatic Human-Computer Interaction
 7. Location-Based Services and Geographic Information Retrieval
 8. Big Data Analytics for Geospatial Applications
 9. Spatial Data Infrastructures and Interoperability
 10. Geoinformatics for Smart Cities and Urban Planning
 11. Environmental Monitoring and Geospatial Solutions
-12. Disaster Management and Emergency Response
-13. Geoinformatics for Sustainable Development
-14. Geospatial AI and Machine Learning Applications
-15. Open Geospatial Science and Open Source Software
+12. Geoinformatics for Sustainable Development
+13. Geospatial AI and Machine Learning Applications
+14. Open Geospatial Science and Open Source Software
 
 Your participation in the *Geoinformatics Research Days 2024* will make a significant contributions, foster collaboration,
 and shape the future of Geoinformatics. Together, let's advance the understanding and application of geospatial technologies 
@@ -91,12 +91,12 @@ Registration form.
 Venue
 ======
 
-Venue address.
+Otaniemi, Finland. More detailed information regarding the venue will be published later.
 
 
 Contact
 ===============
-For any inquiries or further information, please contact [Contact Email].
+For any inquiries or further information, please contact chairman of the Scientific Committee, `Jussi Nikander <https://www.aalto.fi/fi/ihmiset/jussi-nikander>`_.
 
 
 
