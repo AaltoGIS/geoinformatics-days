@@ -66,8 +66,11 @@ Otaniemi, Finland. More detailed information regarding the venue will be publish
 Scientific committee
 ====================
 
+- Antikainen, Harri (University of Oulu)
+- Hasanzadeh, Kamyar (University of Helsinki)
 - Krisp, Jukka (University of Augsburg)
 - Käyhkö, Niina (University of Turku)
+- Lensu, Anssi (University of Jyväskylä)
 - Nikander, Jussi (Aalto University)
 - Tenkanen, Henrikki (Aalto University)
 - Toivonen, Tuuli (University of Helsinki)
@@ -75,6 +78,7 @@ Scientific committee
 
 Contact
 ===============
+
 For any inquiries or further information, please contact chairman of the Scientific Committee, `Jussi Nikander <https://www.aalto.fi/fi/ihmiset/jussi-nikander>`_.
   
 
