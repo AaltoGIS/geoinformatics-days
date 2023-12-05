@@ -63,6 +63,15 @@ Venue
 
 Otaniemi, Finland. More detailed information regarding the venue will be published later.
 
+Scientific committee
+====================
+
+- Krisp, Jukka (University of Augsburg)
+- Käyhkö, Niina (University of Turku)
+- Nikander, Jussi (Aalto University)
+- Tenkanen, Henrikki (Aalto University)
+- Toivonen, Tuuli (University of Helsinki)
+
 
 Contact
 ===============
