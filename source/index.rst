@@ -1,36 +1,6 @@
 .. figure:: _static/banner_logos.png
 
 
-
-.. .. grid:: 1 3 3 3
-    :gutter: 2
-
-    .. grid-item-card:: :fas:`rocket` Why Geospatial Challenge Camp?
-         :link: tabs/theme.html
-
-         Geospatial Challenge Camp aims at engaging young scientists and students 
-         to solve real-world sustainability challenges with digital data and 
-         location technologies. In 2023, the topic of the challenge is 
-         *Health and Wellbeing*.
-
-    .. grid-item-card:: :fas:`bell` When?
-        :link: tabs/schedule.html
-
-        Starting on September 25-26th, 2023 with a kick-off event and 
-        closing on December 1st, 2023. Multi-disciplinary teams of 
-        young scientists work in close collaboration with different 
-        stakeholders to co-create digital and social innovations 
-        related to our health and wellbeing challenges.
-
-    .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
-         :link: index.html#sign-up
-
-         Researchers and students, check below how to sign-up for the Geospatial Challenge Camp 
-         to boost your digital data and innovations skills and enlarge your networks.
-         Collaborators, read more on how to be involved and match your digital health 
-         and well-being information needs and opportunities with us.
-
-
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
 which has been arranged by the member universities of the 
 **Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years.
@@ -77,8 +47,8 @@ All accepted publications will be given a chance to present their work at the *G
     **Important dates!**
 
     - Abstract Submission Opens: December 4th, 2023
-    - Extended abstract aubmission deadline: Feb 15th 2024
-    - Notification of acceptance: until April 2nd 2024
+    - Abstract submission deadline: Feb 15th 2024
+    - Notification of acceptance: April 2nd 2024
     - Conference dates: 20-21 May
 
 
@@ -97,13 +67,7 @@ Otaniemi, Finland. More detailed information regarding the venue will be publish
 Contact
 ===============
 For any inquiries or further information, please contact chairman of the Scientific Committee, `Jussi Nikander <https://www.aalto.fi/fi/ihmiset/jussi-nikander>`_.
-
-
-
-
-
-
-   
+  
 
 
 ..
