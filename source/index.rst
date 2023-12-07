@@ -46,7 +46,7 @@ All accepted publications will be given a chance to present their work at the *G
 .. attention:: 
     **Important dates!**
 
-    - Abstract Submission Opens: December 4th, 2023
+    - Abstract Submission Opens: December 15th, 2023
     - Abstract submission deadline: Feb 15th 2024
     - Notification of acceptance: April 2nd 2024
     - Conference dates: 20-21 May
@@ -68,6 +68,7 @@ Scientific committee
 
 - Antikainen, Harri (University of Oulu)
 - Hasanzadeh, Kamyar (University of Helsinki)
+- Kettunen, Pyry (Finnish Geospatial Research Institute)
 - Krisp, Jukka (University of Augsburg)
 - Käyhkö, Niina (University of Turku)
 - Lensu, Anssi (University of Jyväskylä)
