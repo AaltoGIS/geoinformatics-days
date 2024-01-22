@@ -76,8 +76,9 @@ All accepted publications will be given a chance to present their work at the *G
 .. attention:: 
     **Important dates!**
 
-    - Extended abstract aubmission deadline: Feb 2024
-    - Notification of acceptance: until April 2nd 2024
+    - Abstract Submission Opens: January 29th, 2024
+    - Abstract submission deadline: March 8th 2024
+    - Notification of acceptance: April 23rd 2024
     - Conference dates: 20-21 May
 
 
