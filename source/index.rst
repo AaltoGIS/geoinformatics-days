@@ -66,21 +66,21 @@ Otaniemi, Finland. More detailed information regarding the venue will be publish
 Scientific committee
 ====================
 
-- Antikainen, Harri (University of Oulu)
-- Hasanzadeh, Kamyar (University of Helsinki)
-- Kettunen, Pyry (Finnish Geospatial Research Institute)
-- Krisp, Jukka (University of Augsburg)
-- Käyhkö, Niina (University of Turku)
-- Lensu, Anssi (University of Jyväskylä)
-- Nikander, Jussi (Aalto University)
-- Tenkanen, Henrikki (Aalto University)
-- Toivonen, Tuuli (University of Helsinki)
+- `Antikainen, Harri <https://www.oulu.fi/en/researchers/harri-antikainen>`_ (University of Oulu)
+- `Hasanzadeh, Kamyar <https://www.helsinki.fi/en/about-us/people/people-finder/kamyar-hasanzadeh-9481798>`_ (University of Helsinki)
+- `Kettunen, Pyry <https://www.maanmittauslaitos.fi/en/research/contact-information/staff/pyry-kettunen>`_ (Finnish Geospatial Research Institute)
+- `Krisp, Jukka <https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/geoagi/geoagi-team/j-krisp/>`_ (University of Augsburg)
+- `Käyhkö, Niina <https://www.utu.fi/en/people/niina-kayhko>`_ (University of Turku)
+- `Lensu, Anssi <https://www.jyu.fi/en/people/anssi-lensu>`_ (University of Jyväskylä)
+- `Nikander, Jussi <https://www.aalto.fi/en/people/jussi-nikander>`_ (Aalto University)
+- `Tenkanen, Henrikki <https://www.aalto.fi/en/people/henrikki-tenkanen>`_ (Aalto University)
+- `Toivonen, Tuuli <https://www.helsinki.fi/en/about-us/people/people-finder/tuuli-toivonen-9016861>`_ (University of Helsinki)
 
 
 Contact
 ===============
 
-For any inquiries or further information, please contact chairman of the Scientific Committee, `Jussi Nikander <https://www.aalto.fi/fi/ihmiset/jussi-nikander>`_.
+For any inquiries or further information, please contact chairman of the Scientific Committee, `Jussi Nikander <https://www.aalto.fi/en/people/jussi-nikander>`_.
   
 
 
