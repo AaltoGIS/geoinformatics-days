@@ -30,6 +30,7 @@ The conference will cover a broad spectrum of topics related to Geoinformatics, 
 12. Geoinformatics for Sustainable Development
 13. Geospatial AI and Machine Learning Applications
 14. Open Geospatial Science and Open Source Software
+15. Papers aimed at the programme related to the **ICA Commission on Cognitive Issues in Geographic Information Visualization**
 
 Your participation in the *Geoinformatics Research Days 2024* will make a significant contributions, foster collaboration,
 and shape the future of Geoinformatics. Together, let's advance the understanding and application of geospatial technologies 
@@ -38,24 +39,28 @@ for a more sustainable and interconnected world.
 Submission guidelines
 ======================
 
-Presenters are invited to submit an extended abstract of a maximum of 2 pages in English. 
+Presenters are invited to submit an extended abstract of a maximum of 1000 words (approximately 2 pages of text) in English. 
+In your paper please note if your paper is aimed at the ICA CogVIS programme track. 
+
 All submitted papers will be peer-reviewed to ensure the quality of the contributions. 
 All accepted publications will be given a chance to present their work at the *Geoinformatics Research Days 2024*.
 
 
 .. attention:: 
-    **Important dates!**
-
-    - Abstract Submission Opens: January 29th, 2024
+    - Abstract `Submission Opens <https://easychair.org/my/conference?conf=grd24>`_: January 30th, 2024
     - Abstract submission deadline: March 8th 2024
     - Notification of acceptance: April 23rd 2024
     - Conference dates: 20-21 May
 
+Paper submission
+================
+
+Please submit your paper to the Geoinformatics Research Days using EasyChair: https://easychair.org/my/conference?conf=grd24.
 
 Registration
 ==============
 
-Registration form.
+Registration form will be published here closer to the event.
 
 
 Venue
