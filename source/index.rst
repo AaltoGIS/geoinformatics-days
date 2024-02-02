@@ -55,12 +55,25 @@ All accepted publications will be given a chance to present their work at the *G
 Paper submission
 ================
 
-Please submit your paper to the Geoinformatics Research Days using EasyChair: https://easychair.org/my/conference?conf=grd24.
+Please submit your paper to the Geoinformatics Research Days using **EasyChair**.
 
-Registration
-==============
+.. admonition:: Until March 8th 2024    
 
-Registration form will be published here closer to the event.
+  .. button-link:: https://easychair.org/my/conference?conf=grd24
+      :color: primary
+      :shadow:
+      :align: center
+
+      👉 Registration!
+
+
+
+          
+
+.. Registration
+.. ==============
+
+.. Registration form will be published here closer to the event.
 
 
 Venue
