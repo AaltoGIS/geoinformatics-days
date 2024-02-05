@@ -64,7 +64,7 @@ Please submit your paper to the Geoinformatics Research Days using **EasyChair**
       :shadow:
       :align: center
 
-      👉 Registration!
+      👉 Submit your paper here!
 
 
 
