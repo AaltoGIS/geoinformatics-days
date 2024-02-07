@@ -86,7 +86,7 @@ Scientific committee
 
 - `Antikainen, Harri <https://www.oulu.fi/en/researchers/harri-antikainen>`_ (University of Oulu)
 - `Hasanzadeh, Kamyar <https://www.helsinki.fi/en/about-us/people/people-finder/kamyar-hasanzadeh-9481798>`_ (University of Helsinki)
-- `Kettunen, Pyry <https://www.maanmittauslaitos.fi/en/research/contact-information/staff/pyry-kettunen>`_ (Finnish Geospatial Research Institute)
+- `Kettunen, Pyry <https://www.maanmittauslaitos.fi/en/research/contact-information/staff/pyry-kettunen>`_ (Finnish Geospatial Research Institute, ICA CogVis Commission)
 - `Krisp, Jukka <https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/geoagi/geoagi-team/j-krisp/>`_ (University of Augsburg)
 - `Käyhkö, Niina <https://www.utu.fi/en/people/niina-kayhko>`_ (University of Turku)
 - `Lensu, Anssi <https://www.jyu.fi/en/people/anssi-lensu>`_ (University of Jyväskylä)
