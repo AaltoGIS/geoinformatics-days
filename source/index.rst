@@ -48,7 +48,7 @@ All accepted publications will be given a chance to present their work at the *G
 
 .. attention:: 
     - Abstract `Submission Opens <https://easychair.org/my/conference?conf=grd24>`_: January 30th, 2024
-    - Abstract submission deadline: March 17th 2024
+    - Abstract submission deadline: March 18th 2024
     - Notification of acceptance: April 23rd 2024
     - Conference dates: 20-21 May
 
@@ -57,7 +57,7 @@ Paper submission
 
 Please submit your paper to the Geoinformatics Research Days using **EasyChair**.
 
-.. admonition:: Until March 8th 2024    
+.. admonition:: Until March 18th 2024    
 
   .. button-link:: https://easychair.org/my/conference?conf=grd24
       :color: primary
