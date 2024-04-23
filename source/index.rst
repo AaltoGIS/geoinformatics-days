@@ -48,45 +48,68 @@ All accepted publications will be given a chance to present their work at the *G
 
 .. attention:: 
     - Abstract `Submission Opens <https://easychair.org/my/conference?conf=grd24>`_: January 30th, 2024
-    - Abstract submission deadline: March 18th 2024
+    - Abstract submission deadline: March 8th 2024
     - Notification of acceptance: April 23rd 2024
     - Conference dates: 20-21 May
 
-Paper submission
-================
+.. Paper submission
+.. ================
 
-Please submit your paper to the Geoinformatics Research Days using **EasyChair**.
+.. Please submit your paper to the Geoinformatics Research Days using **EasyChair**.
 
-.. admonition:: Until March 18th 2024    
+.. .. admonition:: Until March 8th 2024    
 
-  .. button-link:: https://easychair.org/my/conference?conf=grd24
+..   .. button-link:: https://easychair.org/my/conference?conf=grd24
+..       :color: primary
+..       :shadow:
+..       :align: center
+
+..       👉 Submission!
+
+
+
+
+Event registration
+====================
+
+.. admonition:: Fill this form! 
+
+  Confirm your presence in the event by filling this form.
+
+  .. button-link:: https://link.webropolsurveys.com/S/0CB43272A49318CD
       :color: primary
       :shadow:
       :align: center
 
-      👉 Submit your paper here!
-
-
-
-          
-
-.. Registration
-.. ==============
-
-.. Registration form will be published here closer to the event.
+      👉 Registration form!
 
 
 Venue
 ======
 
-Otaniemi, Finland. More detailed information regarding the venue will be published later.
+Event at: **Kemistintie 1**, lecture hall A305 Ke1, Otaniemi, Finland.
+
+.. raw:: html
+  <div>
+
+  <hr>
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1668.163181635516!2d24.823788721943302!3d60.18418286977455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df59322d928f5%3A0x22ff74ac329934e6!2sKemian%20tekniikka%2C%20Kemistintie%201%2C%2002150%20Espoo!5e0!3m2!1sen!2sfi!4v1713864053500!5m2!1sen!2sfi" 
+    width="100%" 
+    height="500" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+  <hr>
 
 Scientific committee
 ====================
 
 - `Antikainen, Harri <https://www.oulu.fi/en/researchers/harri-antikainen>`_ (University of Oulu)
 - `Hasanzadeh, Kamyar <https://www.helsinki.fi/en/about-us/people/people-finder/kamyar-hasanzadeh-9481798>`_ (University of Helsinki)
-- `Kettunen, Pyry <https://www.maanmittauslaitos.fi/en/research/contact-information/staff/pyry-kettunen>`_ (Finnish Geospatial Research Institute, ICA CogVis Commission)
+- `Kettunen, Pyry <https://www.maanmittauslaitos.fi/en/research/contact-information/staff/pyry-kettunen>`_ (Finnish Geospatial Research Institute)
 - `Krisp, Jukka <https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/geoagi/geoagi-team/j-krisp/>`_ (University of Augsburg)
 - `Käyhkö, Niina <https://www.utu.fi/en/people/niina-kayhko>`_ (University of Turku)
 - `Lensu, Anssi <https://www.jyu.fi/en/people/anssi-lensu>`_ (University of Jyväskylä)
