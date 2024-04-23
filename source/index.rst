@@ -47,10 +47,12 @@ All accepted publications will be given a chance to present their work at the *G
 
 
 .. attention:: 
-    - Abstract `Submission Opens <https://easychair.org/my/conference?conf=grd24>`_: January 30th, 2024
-    - Abstract submission deadline: March 8th 2024
     - Notification of acceptance: April 23rd 2024
     - Conference dates: 20-21 May
+
+.. - Abstract `Submission Opens <https://easychair.org/my/conference?conf=grd24>`_: January 30th, 2024
+.. - Abstract submission deadline: March 8th 2024
+.. - Notification of acceptance: April 23rd 2024
 
 .. Paper submission
 .. ================
