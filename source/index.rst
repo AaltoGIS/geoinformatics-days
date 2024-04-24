@@ -74,16 +74,16 @@ All accepted publications will be given a chance to present their work at the *G
 Event registration
 ====================
 
-.. admonition:: Fill this form! 
+.. admonition:: Registration
 
-  Confirm your presence in the event by filling this form.
+  Please confirm your participation to the conference by filling this form.
 
   .. button-link:: https://link.webropolsurveys.com/S/0CB43272A49318CD
       :color: primary
       :shadow:
       :align: center
 
-      👉 Registration form!
+      👉 Registration form
 
 Programme
 ============
