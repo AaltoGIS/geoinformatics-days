@@ -132,11 +132,11 @@ Monday 20th
             <td>09:40 <br> 11:30</td>
             <td>
                 <ul>
-                    <p><b>Keynote presentations (Chair: Jukka Krisp)</b></p>
+                    <p><b>Keynote presentations </b></p>
 
                 <ul>
 
-                    <li><b>9:40 - 10:35:</b> Enrico Di Minin (University of Helsinki)</li>                
+                    <li><b>9:40 - 10:35:</b> To be confirmed </li>                
                     
                     <li><b>10:35 - 11:30:</b> <i>To be confirmed</i> </li>
                 
@@ -277,7 +277,7 @@ Tuesday 21st
             <td>10:05 <br> 10:50</td>
             <td>
                 <ul>
-                    <p><b>Session 3 - GeoSPA Talks special <br>(Chair: Kamyar Hasanzadeh)</b></p>
+                    <p><b>GeoSPA Talks Keynote <br>(Chair: TBC)</b></p>
 
                 </ul>
                 
@@ -312,7 +312,7 @@ Tuesday 21st
             <td>
                 <ul>
                     <p><u><b>Session 4: GeoAI and Machine learning approaches with spatial data</u></b></p>
-                    <p><b> (Chair: Tuomo Hiippala)</b></p>
+                    <p><b> (Chair: TBC)</b></p>
 
                 <ul>
 
@@ -335,7 +335,7 @@ Tuesday 21st
             <td>14:55 <br> 15:10</td>
             <td>
                 <ul>
-                    <p>Closing the conference - Advertising LBS 2025 </p>
+                    <p>Closing the conference </p>
 
             </td>
             </tr>
