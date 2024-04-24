@@ -85,6 +85,266 @@ Event registration
 
       👉 Registration form!
 
+Programme
+============
+
+Monday 20th
+------------
+
+.. raw:: html 
+
+    <div>
+        
+        <style>
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;}
+        </style>
+
+
+        <table style="width:100%">
+            <tr>
+            <th>Time</th>
+            <th aligns="center">Details</th>
+            </tr><ul>
+
+            <tr>
+            <td>09:00 <br> 09:30</td>
+            <td>
+                <ul>
+                    <p>Morning coffee</p>
+                
+                </ul></ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>09:30 <br> 09:40</td>
+            <td>
+                <ul>
+                    <p>Welcome</p>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>09:40 <br> 11:30</td>
+            <td>
+                <ul>
+                    <p><b>Keynote presentations (Chair: Jukka Krisp)</b></p>
+
+                <ul>
+
+                    <li><b>9:40 - 10:35:</b> Enrico Di Minin (University of Helsinki)</li>                
+                    
+                    <li><b>10:35 - 11:30:</b> <i>To be confirmed</i> </li>
+                
+                </ul>
+                </ul>
+                
+            </td>
+            </tr>
+
+            <tr>
+            <td>11:30 <br> 12:45</td>
+            <td>
+                <ul>
+                    <p>Lunch</p>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>12:45 <br> 13:00</td>
+            <td>
+                <ul>
+                    <p><u><b>Session 1: Geospatial approaches to spatial mobility, accessibility and exposure</u></b></p>
+                    <p><b> (Chair: Henrikki Tenkanen)</b></p>
+
+                <ul>
+
+                    <li><b>12:45 - 13:05</b> Access to green travel in Europe - Comparison across 43 large cities <br><i>(Klein, R., E. Willberg, C. Fink, R. Heinonen, S. Korpilo & T. Toivonen)</i><br></li>
+
+                    <li><b>13:05 - 13:25</b> Near Real-Time Measures of Interregional Mobility Restrictions on COVID-19 Transmission. <br><i>(Cesar Marin Flores, Jesus Berrios, Bernardo Gutierrez, Loreto Bravo and Leo Ferres)</i><br></li>
+
+                    <li><b>13:25 - 13:45</b> Traffic state estimation using crowd-sourced trajectory data in low- and middle-income cities<br><i>(Subhrasankha Dey)</i><br></li>
+
+                    <li><b>13:45 - 14:05</b> Revealing Uncertainties in Noise Modelling <br><i>(Zulfa Nuraini Afifah)</i><br></li>
+
+                </ul>
+            </td>
+            </tr>
+
+
+            <tr>
+            <td>11:30 <br> 12:45</td>
+            <td>
+                <ul>
+                    <p>Lunch</p>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>14:05 <br> 14:30</td>
+            <td>
+                <ul>
+                    <p>Coffe break </p>
+
+            </td>
+            </tr>
+
+
+            <tr>
+            <td>14:30 <br> 15:50</td>
+            <td>
+                <ul>
+                    <p><u><b>Session 2 - ICA CogVis Commission</u></b></p>
+                    <p><b> (Chair: Pyry Kettunen)</b></p>
+
+                <ul>
+
+                    <li><b>14:00 - 14:20</b> The International Cartographic Association Commission on Cognitive Issues in Geographic Information Visualisation <br><i>(Pyry Kettunen, Tumasch Reichenbacher, Hua Liao and Petr Kubíček)</i><br></li>
+
+                    <li><b>14:20 - 14:40</b> The International Cartographic Association Commission on the User Experience: Activities, Outcomes, and Research Agenda <br><i>(Robert Roth)</i><br></li>
+
+                    <li><b>14:40 - 15:00</b> Emerging Cartographic Research Challenges in GeoAI <br><i>(Anthony Robinson, Arzu Çöltekin, Amy Griffin and Florian Ledermann)</i><br></li>
+
+                    <li><b>15:00 - 15:20</b> Map-reading effects of white and green as dominant background colour in a topographic map <br><i>(Pyry Kettunen)</i><br></li>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>15:50 <br> 16:00</td>
+            <td>
+                <ul>
+                    <p>Closing of the first day </p>
+
+            </td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+
+Tuesday 21st 
+--------------
+
+.. raw:: html 
+
+    <div>
+        
+        <style>
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;}
+        </style>
+
+
+        <table style="width:100%">
+            <tr>
+            <th>Time</th>
+            <th aligns="center">Details</th>
+            </tr><ul>
+
+            <tr>
+            <td>09:30 <br> 10:00</td>
+            <td>
+                <ul>
+                    <p>Morning coffee</p>
+                
+                </ul></ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>10:00 <br> 10:05</td>
+            <td>
+                <ul>
+                    <p>Welcome</p>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>10:05 <br> 10:50</td>
+            <td>
+                <ul>
+                    <p><b>Session 3 - GeoSPA Talks special <br>(Chair: Kamyar Hasanzadeh)</b></p>
+
+                </ul>
+                
+            </td>
+            </tr>
+
+
+            <tr>
+            <td>10:50 <br> 12:00</td>
+            <td>
+                <ul>
+                    <p><b>Panel discussion - GeoAI: The premise and challenges of AI in GIScience and EO (Chair: Henrikki Tenkanen)</b></p>
+
+                </ul>
+                
+            </td>
+            </tr>
+
+
+            <tr>
+            <td>12:00 <br> 13:15</td>
+            <td>
+                <ul>
+                    <p>Lunch</p>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td>13:15 <br> 14:55</td>
+            <td>
+                <ul>
+                    <p><u><b>Session 4: GeoAI and Machine learning approaches with spatial data</u></b></p>
+                    <p><b> (Chair: Tuomo Hiippala)</b></p>
+
+                <ul>
+
+                    <li><b>13:15 - 13:35</b>Geodata acquisition from unstructured texts – Introducing an open-source tool for geoparsing Finnish<br><i>(Tatu Leppämäki, Tuuli Toivonen and Tuomo Hiippala)</i><br></li>
+ 
+                    <li><b>13:35 - 13:55</b>Integrating machine learning approaches for predicting heat stress: A case study of Glasgow city <br><i>(Newsha Modjrian and Rohinton Emmanuel)</i><br></li>
+
+                    <li><b>13:55 - 14:15</b>Detection of water pans for cattle in agropastoral areas of Taita Taveta County in Kenya <br><i>(Pauline Ogola, Ian Ocholla, Petri Pellikka, Gretchen Gettel, Ilja Vuorinne and Janne Heiskanen) </i><br></li>
+
+                    <li><b>14:15 - 14:35</b>Exploring high resolution aerial imagery and computer vision models for counting cattle in Kenyan rangelands <br><i>(Ian Ocholla, Petri Pellikka, Faith Karanja, Ilja Vuorinne, Tuomas) </i><br></li>
+
+                    <li><b>14:35 - 14:55</b>Detecting a keystone species aspen in boreal forests using remote sensing <br><i>(Sonja Kivinen, Topi Tanhuanpää, Arto Viinikka, Janne Mäyrä, Sarita Keski-Saari, Anton Kuzmin, Pekka Hurskainen, Ida Palmroos, Pasi Korpelainen, Petteri Vihervaara and Timo Kumpula) </i><br></li>
+
+                </ul>
+            </td>
+            </tr>
+
+
+            <tr>
+            <td>14:55 <br> 15:10</td>
+            <td>
+                <ul>
+                    <p>Closing the conference - Advertising LBS 2025 </p>
+
+            </td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+
 
 Venue
 ======
