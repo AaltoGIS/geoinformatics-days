@@ -202,7 +202,7 @@ Monday 20th
             <td>14:30 <br> 15:50</td>
             <td>
                 <ul>
-                    <p><u><b>Session 2 - ICA CogVis Commission</u></b></p>
+                    <p><u><b>Session 2: ICA CogVis Commission</u></b></p>
                     <p><b> (Chair: Pyry Kettunen)</b></p>
 
                 <ul>
@@ -289,7 +289,7 @@ Tuesday 21st
             <td>10:50 <br> 12:00</td>
             <td>
                 <ul>
-                    <p><b>Panel discussion - GeoAI: The premise and challenges of AI in GIScience and EO (Chair: Henrikki Tenkanen)</b></p>
+                    <p><b>Panel discussion - GeoAI: The premises and challenges of AI in GIScience and EO (Chair: Henrikki Tenkanen)</b></p>
 
                 </ul>
                 
@@ -316,15 +316,15 @@ Tuesday 21st
 
                 <ul>
 
-                    <li><b>13:15 - 13:35</b>Geodata acquisition from unstructured texts – Introducing an open-source tool for geoparsing Finnish<br><i>(Tatu Leppämäki, Tuuli Toivonen and Tuomo Hiippala)</i><br></li>
+                    <li><b>13:15 - 13:35</b> Geodata acquisition from unstructured texts – Introducing an open-source tool for geoparsing Finnish<br><i>(Tatu Leppämäki, Tuuli Toivonen and Tuomo Hiippala)</i><br></li>
  
-                    <li><b>13:35 - 13:55</b>Integrating machine learning approaches for predicting heat stress: A case study of Glasgow city <br><i>(Newsha Modjrian and Rohinton Emmanuel)</i><br></li>
+                    <li><b>13:35 - 13:55</b> Integrating machine learning approaches for predicting heat stress: A case study of Glasgow city <br><i>(Newsha Modjrian and Rohinton Emmanuel)</i><br></li>
 
-                    <li><b>13:55 - 14:15</b>Detection of water pans for cattle in agropastoral areas of Taita Taveta County in Kenya <br><i>(Pauline Ogola, Ian Ocholla, Petri Pellikka, Gretchen Gettel, Ilja Vuorinne and Janne Heiskanen) </i><br></li>
+                    <li><b>13:55 - 14:15</b> Detection of water pans for cattle in agropastoral areas of Taita Taveta County in Kenya <br><i>(Pauline Ogola, Ian Ocholla, Petri Pellikka, Gretchen Gettel, Ilja Vuorinne and Janne Heiskanen) </i><br></li>
 
-                    <li><b>14:15 - 14:35</b>Exploring high resolution aerial imagery and computer vision models for counting cattle in Kenyan rangelands <br><i>(Ian Ocholla, Petri Pellikka, Faith Karanja, Ilja Vuorinne, Tuomas) </i><br></li>
+                    <li><b>14:15 - 14:35</b> Exploring high resolution aerial imagery and computer vision models for counting cattle in Kenyan rangelands <br><i>(Ian Ocholla, Petri Pellikka, Faith Karanja, Ilja Vuorinne, Tuomas) </i><br></li>
 
-                    <li><b>14:35 - 14:55</b>Detecting a keystone species aspen in boreal forests using remote sensing <br><i>(Sonja Kivinen, Topi Tanhuanpää, Arto Viinikka, Janne Mäyrä, Sarita Keski-Saari, Anton Kuzmin, Pekka Hurskainen, Ida Palmroos, Pasi Korpelainen, Petteri Vihervaara and Timo Kumpula) </i><br></li>
+                    <li><b>14:35 - 14:55</b> Detecting a keystone species aspen in boreal forests using remote sensing <br><i>(Sonja Kivinen, Topi Tanhuanpää, Arto Viinikka, Janne Mäyrä, Sarita Keski-Saari, Anton Kuzmin, Pekka Hurskainen, Ida Palmroos, Pasi Korpelainen, Petteri Vihervaara and Timo Kumpula) </i><br></li>
 
                 </ul>
             </td>
