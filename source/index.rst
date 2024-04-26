@@ -277,7 +277,7 @@ Tuesday 21st
             <td>10:05 <br> 10:50</td>
             <td>
                 <ul>
-                    <p><b>GeoSPA Talks Keynote <br>(Chair: TBC)</b></p>
+                    <p><b>GeoSPA Talks Keynote <br>(Chair: Kamyar Hasanzadeh)</b></p>
 
                 </ul>
                 
