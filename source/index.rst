@@ -136,9 +136,9 @@ Monday 20th
 
                 <ul>
 
-                    <li><b>9:40 - 10:35:</b> To be confirmed </li>                
+                    <li><b>9:40 - 10:35:</b> Enrico Di Minin, University of Helsinki </li>                
                     
-                    <li><b>10:35 - 11:30:</b> <i>To be confirmed</i> </li>
+                    <li><b>10:35 - 11:30:</b> Matti Kummu, Aalto University </li>
                 
                 </ul>
                 </ul>
