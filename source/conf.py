@@ -10,7 +10,7 @@ import os
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Geoinformatics Research Days 2024'
-copyright = '2023, Aalto University | Geoinformatics Department'
+copyright = '2024, Aalto University | Department of Built Environment'
 author = 'Bryan R Vallejo'
 release = '1.0'
 
