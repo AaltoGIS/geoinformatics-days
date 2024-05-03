@@ -136,9 +136,9 @@ Monday 20th
 
                 <ul>
 
-                    <li><b>9:40 - 10:35:</b>Quantitative conservation geography: relevant data, methods and emerging technologies - Prof. Enrico Di Minin, University of Helsinki</li>                
+                    <li><b>9:40 - 10:35: </b>Quantitative conservation geography: relevant data, methods and emerging technologies - Prof. Enrico Di Minin, University of Helsinki</li>                
                     
-                    <li><b>10:35 - 11:30:</b>Mapping challanges and opportunities towards sustainable food future - Prof. Matti Kummu, Aalto University </li>
+                    <li><b>10:35 - 11:30: </b>Mapping challanges and opportunities towards sustainable food future - Prof. Matti Kummu, Aalto University </li>
                 
                 </ul>
                 </ul>
@@ -280,7 +280,7 @@ Tuesday 21st
                     <p><b>GeoSPA Talks Keynote <br>(Chair: Kamyar Hasanzadeh)</b></p>
 
                 <ul>
-                <li><b>10:05 - 10:50:</b>Place Representation and Place Communication: A Challenge for Geographical Information Science - Prof. Franz-Benjamin Mocnik, University of Salzburg</li>        
+                <li>Place Representation and Place Communication: A Challenge for Geographical Information Science - Prof. Franz-Benjamin Mocnik, University of Salzburg</li>        
                 </ul>
                 </ul>
                 
