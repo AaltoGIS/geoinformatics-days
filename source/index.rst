@@ -132,7 +132,7 @@ Monday 20th
             <td>09:40 <br> 11:30</td>
             <td>
                 <ul>
-                    <p><b>Keynote presentations </b></p>
+                    <p><b><u>Keynote presentations </u></b></p>
 
                 <ul>
 
@@ -277,7 +277,7 @@ Tuesday 21st
             <td>10:05 <br> 10:50</td>
             <td>
                 <ul>
-                    <p><b>GeoSPA Talks Keynote <br>(Chair: Kamyar Hasanzadeh)</b></p>
+                    <p><b><u>GeoSPA Talks Keynote</u> <br>(Chair: Kamyar Hasanzadeh)</b></p>
 
                 <ul>
                 <li>Place Representation and Place Communication: A Challenge for Geographical Information Science - Prof. Franz-Benjamin Mocnik, University of Salzburg</li>        
