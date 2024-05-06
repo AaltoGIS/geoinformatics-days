@@ -292,7 +292,7 @@ Tuesday 21st
             <td>10:50 <br> 12:00</td>
             <td>
                 <ul>
-                    <p><b>Panel discussion - GeoAI: The premises and challenges of AI in GIScience and EO (Chair: Henrikki Tenkanen)</b></p>
+                    <p><b>Panel discussion - GeoAI: Prospects and challenges of AI in GIScience and Earth Observation (Chair: Henrikki Tenkanen)</b></p>
 
                 </ul>
                 
