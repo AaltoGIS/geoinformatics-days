@@ -134,7 +134,7 @@ Monday 20th
             <td>14:05 <br> 14:30</td>
             <td>
                 <ul>
-                    <p>Coffe break </p>
+                    <p>Coffee break </p>
 
             </td>
             </tr>
@@ -145,7 +145,7 @@ Monday 20th
             <td>
                 <ul>
                     <p><u><b>Session 2: ICA CogVis Commission</u></b></p>
-                    <p><b> (Chair: Pyry Kettunen)</b></p>
+                    <p><b> (Chair: Jukka Krisp)</b></p>
 
                 <ul>
 
