@@ -74,6 +74,7 @@ Monday 20th
             <td>
                 <ul>
                     <p><b><u>Keynote presentations </u></b></p>
+                    <p><b> (Chair: Niina Käyhkö)</b></p>
 
                 <ul>
 
@@ -233,7 +234,18 @@ Tuesday 21st
             <td>10:50 <br> 12:00</td>
             <td>
                 <ul>
-                    <p><b>Panel discussion - GeoAI: Prospects and challenges of AI in GIScience and Earth Observation (Chair: Henrikki Tenkanen)</b></p>
+                    <p><b>Panel discussion on GeoAI: Prospects and challenges of AI in GIScience and Earth Observation</b></p>
+                    <p><b> (Chair: Henrikki Tenkanen)</b></p>
+
+                <ul>
+                    <p><b>Panelists:</b><br></p>
+
+                    <li>Laura Ruotsalainen, University of Helsinki<br></li>
+                    <li>Lingli Zhu, National Land Survey<br></li>
+                    <li>Christoph Fink, University of Vienna<br></li>
+                    
+                </ul>
+
 
                 </ul>
                 
