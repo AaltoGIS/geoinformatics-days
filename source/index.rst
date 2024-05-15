@@ -121,16 +121,6 @@ Monday 20th
 
 
             <tr>
-            <td>11:30 <br> 12:45</td>
-            <td>
-                <ul>
-                    <p>Lunch</p>
-
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
             <td>14:05 <br> 14:30</td>
             <td>
                 <ul>
