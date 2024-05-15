@@ -206,7 +206,7 @@ Tuesday 21st
             </tr>
 
             <tr>
-            <td>10:00 <br> 10:05</td>
+            <td>10:00 </td>
             <td>
                 <ul>
                     <p>Welcome</p>
@@ -216,7 +216,7 @@ Tuesday 21st
             </tr>
 
             <tr>
-            <td>10:05 <br> 10:50</td>
+            <td>10:00 <br> 10:45</td>
             <td>
                 <ul>
                     <p><b><u>GeoSPA Talks Keynote</u> <br>(Chair: Kamyar Hasanzadeh)</b></p>
@@ -231,7 +231,7 @@ Tuesday 21st
 
 
             <tr>
-            <td>10:50 <br> 12:00</td>
+            <td>10:45 <br> 11:45</td>
             <td>
                 <ul>
                     <p><b>Panel discussion on GeoAI: Prospects and challenges of AI in GIScience and Earth Observation</b></p>
@@ -252,6 +252,17 @@ Tuesday 21st
             </td>
             </tr>
 
+
+            <tr>
+            <td>11:45 <br> 12:00</td>
+            <td>
+                <ul>
+                    <p><b>Latest news from Geoportti</b></p>
+                    <p>Kylli Ek, CSC</p>
+                </ul>
+                
+            </td>
+            </tr>
 
             <tr>
             <td>12:00 <br> 13:15</td>
