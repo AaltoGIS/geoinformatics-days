@@ -260,7 +260,7 @@ Tuesday 21st
             <td>
                 <ul>
                     <p><u><b>Session 4: GeoAI and Machine learning approaches with spatial data</u></b></p>
-                    <p><b> (Chair: TBC)</b></p>
+                    <p><b> (Chair: Pyky Kettunen)</b></p>
 
                 <ul>
 
