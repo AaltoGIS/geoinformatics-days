@@ -15,16 +15,7 @@ Visualisation with targeted sessions and their members are also warmly welcome.
 Event registration
 ====================
 
-.. admonition:: Registration
-
-  Please confirm your participation to the conference by filling this form.
-
-  .. button-link:: https://link.webropolsurveys.com/S/0CB43272A49318CD
-      :color: primary
-      :shadow:
-      :align: center
-
-      👉 Registration form
+  Event registration is closed.
 
 Programme
 ============
