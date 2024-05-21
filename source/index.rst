@@ -383,6 +383,28 @@ Scientific committee
 - `Toivonen, Tuuli <https://www.helsinki.fi/en/about-us/people/people-finder/tuuli-toivonen-9016861>`_ (University of Helsinki)
 
 
+Event sponsors
+=================
+
+.. carousel::
+    :show_controls:
+    :show_indicators:
+    :show_dark:
+
+    .. figure:: _static/img/aalto_c.png
+
+      www.aalto.fi
+
+    .. figure:: _static/img/helsinki_c.png
+    
+      www.helsinki.fi
+
+    .. figure:: _static/img/uturku_c.png
+      
+      www.utu.fi
+
+    
+
 Contact
 ===============
 
