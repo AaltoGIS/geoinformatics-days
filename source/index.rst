@@ -67,11 +67,11 @@ Tuesday the 6th
             <td>
                 <ul>
                     <p><b><u>Keynote and the first session</u></b></p>
-                    <<!-- p><b> (Chair: Niina Käyhkö)</b></p> -->
+                    <!-- p><b> (Chair: Niina Käyhkö)</b></p> -->
 
                 <ul>
 
-                    <li>Understanding functional cross-border regions in Europe from mobilities of people: New Insights from Big Data - Research fellow Olle Järv, University of Helsinki</li>                
+                    <li><!-- Understanding functional cross-border regions in Europe from mobilities of people: New Insights from Big Data - Research fellow Olle Järv, University of Helsinki --> TBA</li>                
                                                         
                 </ul>
                 </ul>
@@ -108,11 +108,11 @@ Tuesday the 6th
 
                 <ul>
 
-                    <li><b>10:45 - 11:15</b> LIH Presentation - Joonas Jokela, National Land Survey of Finland</li>
+                    <li><b>10:45 - 11:15</b> Location Innovation Hub -  Advancing Geospatial Research - Joonas Jokela, National Land Survey of Finland</li>
 
-                    <li><b>11:15 - 11:35</b> Turku Presentation</li>
+                    <li><b>11:15 - 11:35</b> <!-- Turku Presentation --> Name pending</li>
 
-                    <li><b>11:35 - 11:55</b> Seyed?</li>
+                    <li><b>11:35 - 11:55</b> Application of large language models in hydrology - Seyed Hosseini, Aalto University</li>
 
                 </ul>
             </td>
