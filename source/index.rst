@@ -110,7 +110,7 @@ Tuesday the 6th
 
                     <li><b>10:45 - 11:15</b> Location Innovation Hub -  Advancing Geospatial Research - Joonas Jokela, National Land Survey of Finland</li>
 
-                    <li><b>11:15 - 11:35</b> <!-- Turku Presentation --> Name pending</li>
+                    <li><b>11:15 - 11:35</b> Shoreline migration data from full Landsat collections reveal dramatic coastal changes across the Arctic - Tua Nylen, University of Turku</li>
 
                     <li><b>11:35 - 11:55</b> Application of large language models in hydrology - Seyed Hosseini, Aalto University</li>
 
