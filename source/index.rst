@@ -11,7 +11,7 @@ The LBS2025 conference will be held in Dipoli, Otaniemi, on 7-9 May. Because of 
 **6 May, 2025**. 
 
 The Research Days will act as a pre-event for the LBS2025 conference, and all LBS2025 participants are welcome to join us in the Research Days. 
-Participants of the Research Days are also invited to join the LBS2025 conference (separate `registration required <https://lbs2025.lbsconference.org/pages/registration.html>`, open until April 27th_).
+Participants of the Research Days are also invited to join the LBS2025 conference (separate `registration required <https://lbs2025.lbsconference.org/pages/registration.html>`_, open until April 27th).
 In addition, the Geoinformatics Research Days 2025 will act as the final event of the `Geospatial Challenge Camp 2025 <https://challenge-camp.geoportti.fi/>`_.
 
 Event registration
