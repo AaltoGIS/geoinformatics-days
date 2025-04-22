@@ -63,7 +63,7 @@ Tuesday the 6th
             </tr>
 
             <tr>
-            <td>09:05 <br> 9:45</td>
+            <td>09:05 <br> 10:15</td>
             <td>
                 <ul>
                     <p><b><u>Keynote and the first session</u></b></p>
@@ -71,21 +71,13 @@ Tuesday the 6th
 
                 <ul>
 
-                    <li><!-- Understanding functional cross-border regions in Europe from mobilities of people: New Insights from Big Data - Research fellow Olle Järv, University of Helsinki --> TBA</li>                
-                                                        
+                    <li><b>Keynote</b>: Understanding functional cross-border regions in Europe from mobilities of people: New Insights from Big Data - Research fellow Olle Järv, University of Helsinki</li>                
+
+                    <li>Latest news from the Geoportti research infrastructure - prof. Henrikki Tenkanen, Aalto University</li>
+
                 </ul>
                 </ul>
                 
-            </td>
-            </tr>
-
-            <tr>
-            <td>9:45 <br> 10:15</td>
-            <td>
-                <ul>
-                    <p>Latest news from the Geoportti research infrastructure - prof. Henrikki Tenkanen, Aalto University</p>
-
-                </ul>
             </td>
             </tr>
 
@@ -164,11 +156,11 @@ Tuesday the 6th
 
                 <ul>
 
-                    <li><b>14:30 - 15:30</b>10+10 minute pitches by the participanting teams</li>
+                    <li><b>14:30 - 15:30</b> 10+10 minute pitches by the participanting teams</li>
 
-                    <li><b>15:30 - 15:50</b>Presentation of certificates to the participants</li>
+                    <li><b>15:30 - 15:50</b> Presentation of certificates to the participants</li>
 
-                    <li><b>15:50 - 16:00</b>Closing words for the Geoinformatics research days and the geospatial challenge camp</li>
+                    <li><b>15:50 - 16:00</b> Closing words for the Geoinformatics research days and the geospatial challenge camp</li>
 
                 </ul>
             </td>
