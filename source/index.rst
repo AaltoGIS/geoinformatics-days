@@ -158,9 +158,11 @@ Tuesday the 6th
 
                     <li><b>14:30 - 15:30</b> 10+10 minute pitches by the participanting teams</li>
 
-                    <li><b>15:30 - 15:50</b> Presentation of certificates to the participants</li>
+                    <li><b>15:30 - 15:45</b> How to get ESA research and development funding for geospatial innovations - Miika Kostamo, ESA Phi-Lab</li>
 
-                    <li><b>15:50 - 16:00</b> Closing words for the Geoinformatics research days and the geospatial challenge camp</li>
+                    <li><b>15:45 - 15:55</b> Presentation of certificates to the participants</li>
+
+                    <li><b>15:55 - 16:00</b> Closing words for the Geoinformatics research days and the geospatial challenge camp</li>
 
                 </ul>
             </td>
